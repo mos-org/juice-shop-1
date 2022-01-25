@@ -1,4 +1,4 @@
-name: "CodeQL Analysis with ATM"
+name: "CodeQL Analysis with ATM (internal test)"
 
 on: [push, pull_request]
   
